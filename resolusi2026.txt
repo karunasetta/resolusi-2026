@@ -3,3 +3,4 @@ resolusi 2026
 2. belajar website
 3. belajar API
 4. ternak ikan 
+5. nanam pohong
